@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(../image/background.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    background-size: cover
+}
+
+.logo img{
+    width: 20%;
+    height: 20%;
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+    padding: 10px;
+}
+
+.header {
+    background-color: rgb(189, 189, 186);
+    text-align: center;
+    width: 20%;
+    height: 10%;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+
+.header h2{
+    padding-top: auto;
+}
+
+.login-panel button {
+    color: white;
+    padding: 10px 30px;
+    background-color: #241577;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.login-panel a{
+    text-align: left;
+}
+.login-novo-membro{
+    border-top: 3px solid #bbb;
+
+}
+
+
+.login-panel input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #999999;
+    border-radius: 5px;
+}
+
+#forgot-password {
+    margin-top: 0px;
+    font-size: 10px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#forgot-password:hover {
+    text-decoration: underline;
+}
+
+
+
